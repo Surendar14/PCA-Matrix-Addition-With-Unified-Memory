@@ -21,8 +21,8 @@ Execute the program and run the terminal . Check the performance using nvprof.
 
 # Program:
 ```
-Developed by : Mohamed fashroon adhil
-Reg.NO: 212220230032
+Developed by : Surendar S
+Reg.NO: 212220230051
 ```
 ``` c
 #include <stdio.h>
